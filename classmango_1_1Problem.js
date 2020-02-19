@@ -1,0 +1,25 @@
+var classmango_1_1Problem =
+[
+    [ "Problem", "classmango_1_1Problem.html#a1e8ab947e6e528fa5c1c95aff04cc6ae", null ],
+    [ "~Problem", "classmango_1_1Problem.html#a1f6529f56592a131cf5437435124afd1", null ],
+    [ "get_best_function_evaluation", "classmango_1_1Problem.html#abfc0b5cbade22b1b69082fc74561c625", null ],
+    [ "get_function_evaluations", "classmango_1_1Problem.html#af7a13191cabfae3380f26a4db673537c", null ],
+    [ "get_N_parameters", "classmango_1_1Problem.html#a9b1f6b1c9a1fae5caf0b411055d9a357", null ],
+    [ "get_state_vector", "classmango_1_1Problem.html#a870ebfe2d5275f163cd00415016afebb", null ],
+    [ "mpi_init", "classmango_1_1Problem.html#a11b447abb1c80d8d1075f60b2bfe928f", null ],
+    [ "optimize", "classmango_1_1Problem.html#a3084257fa4b76e9a8d42bf15aada7f12", null ],
+    [ "read_input_file", "classmango_1_1Problem.html#a6eac160cd5357993579b379f12cbfc36", null ],
+    [ "set_algorithm", "classmango_1_1Problem.html#aed692671cf1c58c74ad41cfbf7b08f3a", null ],
+    [ "set_algorithm", "classmango_1_1Problem.html#a413dd9ded8cb1de141868afbeaa84a96", null ],
+    [ "set_bound_constraints", "classmango_1_1Problem.html#a203d52c7e7d9f0a9f0230584470e6955", null ],
+    [ "set_centered_differences", "classmango_1_1Problem.html#a8ef1606175da2a02b2afa864fb0a5c45", null ],
+    [ "set_finite_difference_step_size", "classmango_1_1Problem.html#a2b788c5ef0e007c7df019bd323315271", null ],
+    [ "set_max_function_evaluations", "classmango_1_1Problem.html#a4c0ba539025ceccd56c300d8f4e82e7b", null ],
+    [ "set_output_filename", "classmango_1_1Problem.html#a8daf916f00d0d8083e31dc10147cc940", null ],
+    [ "set_output_filename", "classmango_1_1Problem.html#af292b50eac8e8a9e6322ac5b5b8f1f86", null ],
+    [ "set_relative_bound_constraints", "classmango_1_1Problem.html#aeda7ca8d85b1d631ccc8bde8060f1e46", null ],
+    [ "set_user_data", "classmango_1_1Problem.html#a2c90fc19283e6d02da0cd587a863aae8", null ],
+    [ "set_verbose", "classmango_1_1Problem.html#aa69b57ad9ccc0d92ed025af63c2711ce", null ],
+    [ "mpi_partition", "classmango_1_1Problem.html#a1db62b9befe670a32dcbee99f6e37f3f", null ],
+    [ "solver", "classmango_1_1Problem.html#ad08abafec0fc3bce76b6be89a731cb68", null ]
+];

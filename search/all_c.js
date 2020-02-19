@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['objective_5ffunction_180',['objective_function',['../classmango_1_1Solver.html#aa4de89d9e325c19cae25fceb239b87a4',1,'mango::Solver::objective_function()'],['../nondifferentiable__c_8cpp.html#a4aaaac7fa84b09841a08462ac00a345a',1,'objective_function(int *, const double *, double *, int *, mango::Problem *, void *):&#160;nondifferentiable_c.cpp'],['../nondifferentiable__f_8F90.html#abc032274cc28260564892478a64b0304',1,'objective_function(N, x, f, failed, problem, void_user_data):&#160;nondifferentiable_f.F90']]],
+  ['objective_5ffunction_5f1_181',['objective_function_1',['../finite__difference__tests_8cpp.html#a1d254fad524f3ef34c3728b18c1573ce',1,'finite_difference_tests.cpp']]],
+  ['objective_5ffunction_5ftype_182',['objective_function_type',['../namespacemango.html#a457d3afe8f5597cc29d58002f62d189f',1,'mango']]],
+  ['objective_5ffunction_5fwrapper_183',['objective_function_wrapper',['../classmango_1_1Least__squares__solver.html#a47d17c1d0338e73351ce9b3cba36681c',1,'mango::Least_squares_solver::objective_function_wrapper()'],['../classmango_1_1Solver.html#a78406024f5231dbfd012838168dcd334',1,'mango::Solver::objective_function_wrapper()']]],
+  ['objective_5ffunction_5fwrapper_2ecpp_184',['objective_function_wrapper.cpp',['../objective__function__wrapper_8cpp.html',1,'']]],
+  ['optimize_185',['optimize',['../classmango_1_1Least__squares__solver.html#a861d155f83d8fea28bc49c86cf4ad4b1',1,'mango::Least_squares_solver::optimize()'],['../classmango_1_1Problem.html#a3084257fa4b76e9a8d42bf15aada7f12',1,'mango::Problem::optimize()'],['../classmango_1_1Package.html#a4124e287a75f84301cd4f69b47aa9e37',1,'mango::Package::optimize()'],['../classmango_1_1Package__gsl.html#a348603ad6e6afbbd84b9559cefa2b79b',1,'mango::Package_gsl::optimize()'],['../classmango_1_1Package__hopspack.html#abec9b567c94c4faa4244bffd6ff46e8c',1,'mango::Package_hopspack::optimize()'],['../classmango_1_1Package__nlopt.html#a5c25b94b3e0240e76f00636cc8492340',1,'mango::Package_nlopt::optimize()'],['../classmango_1_1Package__petsc.html#aeda023f61792c7bb9a4f6bb20a15d47e',1,'mango::Package_petsc::optimize()'],['../classmango_1_1Solver.html#ad515309fea23b298e29afaa0839e60a0',1,'mango::Solver::optimize()']]],
+  ['optimize_2ecpp_186',['optimize.cpp',['../optimize_8cpp.html',1,'']]],
+  ['optimize_5fgsl_2ecpp_187',['optimize_gsl.cpp',['../optimize__gsl_8cpp.html',1,'']]],
+  ['optimize_5fhopspack_2ecpp_188',['optimize_hopspack.cpp',['../optimize__hopspack_8cpp.html',1,'']]],
+  ['optimize_5fleast_5fsquares_189',['optimize_least_squares',['../classmango_1_1Package.html#aa06ec9abdeb33945a78e09ed88658f6f',1,'mango::Package::optimize_least_squares()'],['../classmango_1_1Package__gsl.html#a0fa53bf2da0b0a91ea025f4f5a9f93d3',1,'mango::Package_gsl::optimize_least_squares()'],['../classmango_1_1Package__hopspack.html#add43742cf89c9b228540b670396dd931',1,'mango::Package_hopspack::optimize_least_squares()'],['../classmango_1_1Package__nlopt.html#ab05b1db058ecae0e510be72096fd422a',1,'mango::Package_nlopt::optimize_least_squares()'],['../classmango_1_1Package__petsc.html#abc976c24f9c46ed8463c1f6b498c1226',1,'mango::Package_petsc::optimize_least_squares()']]],
+  ['optimize_5fleast_5fsquares_2ecpp_190',['optimize_least_squares.cpp',['../optimize__least__squares_8cpp.html',1,'']]],
+  ['optimize_5fleast_5fsquares_5fgsl_2ecpp_191',['optimize_least_squares_gsl.cpp',['../optimize__least__squares__gsl_8cpp.html',1,'']]],
+  ['optimize_5fleast_5fsquares_5fpetsc_2ecpp_192',['optimize_least_squares_petsc.cpp',['../optimize__least__squares__petsc_8cpp.html',1,'']]],
+  ['optimize_5fnlopt_2ecpp_193',['optimize_nlopt.cpp',['../optimize__nlopt_8cpp.html',1,'']]],
+  ['optimize_5fpetsc_2ecpp_194',['optimize_petsc.cpp',['../optimize__petsc_8cpp.html',1,'']]],
+  ['original_5fuser_5fdata_195',['original_user_data',['../classmango_1_1Least__squares__solver.html#ac1b1f4de53cdf05af4838633e7fd0de1',1,'mango::Least_squares_solver']]],
+  ['output_5ffilename_196',['output_filename',['../classmango_1_1Solver.html#a7e853a01aee5b8c7c0fcef8f03f2ac39',1,'mango::Solver']]]
+];
